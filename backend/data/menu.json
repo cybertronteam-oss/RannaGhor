@@ -1,0 +1,50 @@
+[
+    {
+        "id": "1",
+        "name": "Classic Cheeseburger",
+        "description": "Juicy beef patty with cheddar, lettuce, tomato, and house sauce.",
+        "price": 12.99,
+        "category": "Main",
+        "imageUrl": "/images/burger.png"
+    },
+    {
+        "id": "2",
+        "name": "Hyderabadi Biryani",
+        "description": "Aromatic basmati rice cooked with tender chicken and spices.",
+        "price": 15.50,
+        "category": "Main",
+        "imageUrl": "/images/biryani.png"
+    },
+    {
+        "id": "3",
+        "name": "Caesar Salad",
+        "description": "Crisp romaine lettuce, parmesan cheese, croutons, and caesar dressing.",
+        "price": 9.99,
+        "category": "Starter",
+        "imageUrl": "/images/salad.png"
+    },
+    {
+        "id": "4",
+        "name": "Chocolate Lava Cake",
+        "description": "Warm chocolate cake with a molten center, served with vanilla ice cream.",
+        "price": 8.50,
+        "category": "Dessert",
+        "imageUrl": "/images/dessert.png"
+    },
+    {
+        "id": "5",
+        "name": "Mango Lassi",
+        "description": "Refreshing yogurt-based drink blended with sweet ripe mangoes.",
+        "price": 5.00,
+        "category": "Drink",
+        "imageUrl": "/images/drink.png"
+    },
+    {
+        "id": "6",
+        "name": "Crispy Spring Rolls",
+        "description": "Vegetable filling wrapped in a crispy pastry shell, served with sweet chili sauce.",
+        "price": 6.99,
+        "category": "Starter",
+        "imageUrl": "/images/starter.png"
+    }
+]

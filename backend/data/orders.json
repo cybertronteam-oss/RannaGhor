@@ -1,0 +1,104 @@
+[
+  {
+    "orderId": "aceae5d7-0f86-433c-999d-42a0aec9fa52",
+    "customer": {
+      "name": "iajbdoiwef",
+      "phone": "sdasdasd",
+      "address": "asdasda"
+    },
+    "items": [
+      {
+        "id": "4",
+        "name": "Chocolate Lava Cake",
+        "description": "Warm chocolate cake with a molten center, served with vanilla ice cream.",
+        "price": 8.5,
+        "category": "Dessert",
+        "imageUrl": "/images/dessert.png",
+        "qty": 8
+      }
+    ],
+    "total": 68,
+    "createdAt": "2025-12-10T04:09:36.938Z",
+    "status": "placed"
+  },
+  {
+    "orderId": "3ecdd78b-fdbb-4d92-a570-11cbc2bbead9",
+    "customer": {
+      "name": "xcv",
+      "phone": "dsfsd",
+      "address": "sdfsd"
+    },
+    "items": [
+      {
+        "id": "1",
+        "name": "Classic Cheeseburger",
+        "description": "Juicy beef patty with cheddar, lettuce, tomato, and house sauce.",
+        "price": 12.99,
+        "category": "Main",
+        "imageUrl": "/images/burger.png",
+        "qty": 1
+      },
+      {
+        "id": "2",
+        "name": "Hyderabadi Biryani",
+        "description": "Aromatic basmati rice cooked with tender chicken and spices.",
+        "price": 15.5,
+        "category": "Main",
+        "imageUrl": "/images/biryani.png",
+        "qty": 1
+      },
+      {
+        "id": "3",
+        "name": "Caesar Salad",
+        "description": "Crisp romaine lettuce, parmesan cheese, croutons, and caesar dressing.",
+        "price": 9.99,
+        "category": "Starter",
+        "imageUrl": "/images/salad.png",
+        "qty": 1
+      }
+    ],
+    "total": 38.480000000000004,
+    "createdAt": "2025-12-10T05:59:21.213Z",
+    "status": "placed"
+  },
+  {
+    "orderId": "0d29892f-9dd6-4ec3-8392-1a47ba316a80",
+    "customer": {
+      "name": "t",
+      "phone": "fdsfs",
+      "address": "sdfsdfsd"
+    },
+    "items": [
+      {
+        "id": "1",
+        "name": "Classic Cheeseburger",
+        "description": "Juicy beef patty with cheddar, lettuce, tomato, and house sauce.",
+        "price": 12.99,
+        "category": "Main",
+        "imageUrl": "/images/burger.png",
+        "qty": 1
+      },
+      {
+        "id": "2",
+        "name": "Hyderabadi Biryani",
+        "description": "Aromatic basmati rice cooked with tender chicken and spices.",
+        "price": 15.5,
+        "category": "Main",
+        "imageUrl": "/images/biryani.png",
+        "qty": 1
+      },
+      {
+        "id": "3",
+        "name": "Caesar Salad",
+        "description": "Crisp romaine lettuce, parmesan cheese, croutons, and caesar dressing.",
+        "price": 9.99,
+        "category": "Starter",
+        "imageUrl": "/images/salad.png",
+        "qty": 1
+      }
+    ],
+    "total": 38.480000000000004,
+    "createdAt": "2025-12-10T06:00:01.851Z",
+    "status": "placed"
+  }
+]
